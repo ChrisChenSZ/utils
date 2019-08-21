@@ -1,0 +1,19 @@
+{
+  "name": "@cyt/utils",
+  "version": "1.0.0",
+  "description": "private javascript utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisChenSZ/utils.git"
+  },
+  "author": "chris chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisChenSZ/utils/issues"
+  },
+  "homepage": "https://github.com/ChrisChenSZ/utils#readme"
+}
